@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pillow
+pillow-avif-plugin
+rembg
+torch
+torchvision
+python-doctr[torch]
+easyocr

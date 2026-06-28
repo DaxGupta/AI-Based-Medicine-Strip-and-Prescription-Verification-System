@@ -1,0 +1,9 @@
+abbreviation,meaning,latin_full_form,safe_check
+OD,Once a day,omni die,Ask exact time
+BD,Twice a day,bis die,Confirm approximately 12 hours apart
+TDS,Thrice a day / Three times daily,ter die sumendum,"Confirm morning, afternoon, and night time slots"
+QID,Four times a day,quater in die,Confirm four evenly spaced time slots
+HS,At bedtime,hora somni,Confirm bedtime or after dinner timing
+SOS,As needed,si opus sit,Ask maximum allowed per day
+PRN,When Needed,pro re nata,Ask max per day
+STAT,Immediately,statim,Clarify where to take

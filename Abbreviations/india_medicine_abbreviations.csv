@@ -1,0 +1,108 @@
+abbreviation,normalized_names,category,notes,ambiguity
+PCM,Paracetamol,medicine_name,Very common,low
+Para,Paracetamol,medicine_name,Common shorthand,low
+PCT,Paracetamol,medicine_name,Less common,medium
+Dolo,Paracetamol,brand_as_generic,Brand often used as generic reference,medium
+Calpol,Paracetamol,brand_as_generic,Brand,medium
+Crocin,Paracetamol,brand_as_generic,Brand,medium
+Ibu,Ibuprofen,medicine_name,Pain/fever,low
+Diclo,Diclofenac,medicine_name,Pain/inflammation,low
+Aceclo,Aceclofenac,medicine_name,Pain/inflammation,low
+Eto,Etoricoxib,medicine_name,Pain/inflammation,medium
+NAP,Naproxen,medicine_name,Pain,medium
+Trama,Tramadol,medicine_name,Pain; prescription caution,low
+AZ,Azithromycin,medicine_name,Antibiotic,medium
+Azi,Azithromycin,medicine_name,Antibiotic,low
+Amox,Amoxicillin,medicine_name,Antibiotic,low
+Amox-Clav,Amoxicillin + Clavulanic Acid,medicine_name,Combination,low
+AMC,Amoxicillin + Clavulanic Acid,medicine_name,Common in notes,medium
+Aug,Amoxicillin + Clavulanic Acid,brand_shorthand,Often Augmentin-like shorthand,medium
+Cefix,Cefixime,medicine_name,Antibiotic,low
+Cefi,Cefixime | Cefpodoxime,medicine_name,Ambiguous,high
+Cepo,Cefpodoxime,medicine_name,Antibiotic,medium
+Cefpo,Cefpodoxime,medicine_name,Antibiotic,low
+Ceft,Ceftriaxone | Cefixime,medicine_name,Ambiguous,high
+Metro,Metronidazole,medicine_name,Antibiotic/antiprotozoal,low
+Mtz,Metronidazole,medicine_name,Common shorthand,medium
+O2,Ofloxacin + Ornidazole,brand_or_combination,Brand/combination shorthand,medium
+OFX,Ofloxacin,medicine_name,Antibiotic,low
+Levoflox,Levofloxacin,medicine_name,Antibiotic,low
+Cipro,Ciprofloxacin,medicine_name,Antibiotic,low
+Doxy,Doxycycline,medicine_name,Antibiotic,low
+CTZ,Cetirizine,medicine_name,Allergy,low
+Cetz,Cetirizine,medicine_name,Allergy,low
+LevoCtz,Levocetirizine,medicine_name,Allergy,low
+LCTZ,Levocetirizine,medicine_name,Allergy,low
+Fexo,Fexofenadine,medicine_name,Allergy,low
+Montek,Montelukast,brand_shorthand,Often brand shorthand,medium
+Mont-L,Montelukast + Levocetirizine,medicine_name,Combination,low
+ML,Montelukast + Levocetirizine,medicine_name,Very ambiguous,high
+Panto,Pantoprazole,medicine_name,Acidity,low
+Pan,Pantoprazole,medicine_name,Ambiguous; often brand-like,high
+Razo,Rabeprazole,brand_shorthand,Acidity,medium
+Rabe,Rabeprazole,medicine_name,Acidity,low
+Omez,Omeprazole,brand_shorthand,Brand shorthand,medium
+Ome,Omeprazole,medicine_name,Acidity,low
+Eso,Esomeprazole,medicine_name,Acidity,medium
+Dom,Domperidone,medicine_name,Nausea/acidity combo,medium
+Ondem,Ondansetron,brand_shorthand,Brand shorthand,medium
+Ondan,Ondansetron,medicine_name,Vomiting,low
+Met,Metformin | Metronidazole | Metoprolol,medicine_name,Ambiguous; context needed,high
+Met-SR,Metformin sustained release,medicine_name,Diabetes,medium
+Glim,Glimepiride,medicine_name,Diabetes,low
+Glimi,Glimepiride,medicine_name,Diabetes,low
+Vilda,Vildagliptin,medicine_name,Diabetes,low
+Sita,Sitagliptin,medicine_name,Diabetes,low
+Telmi,Telmisartan,medicine_name,Blood pressure,low
+Telma,Telmisartan,brand_shorthand,Brand shorthand,medium
+Amlo,Amlodipine,medicine_name,Blood pressure,low
+Aten,Atenolol,medicine_name,Blood pressure,low
+Meto,Metoprolol,medicine_name,Blood pressure,medium
+Losar,Losartan,medicine_name,Blood pressure,low
+Olme,Olmesartan,medicine_name,Blood pressure,low
+HCTZ,Hydrochlorothiazide,medicine_name,Blood pressure/diuretic,low
+HCQ,Hydroxychloroquine,medicine_name,Prescription caution,low
+Thyro,Thyroxine | Levothyroxine,medicine_name,Thyroid,medium
+LT4,Levothyroxine,medicine_name,Thyroid,low
+Atorva,Atorvastatin,medicine_name,Cholesterol,low
+Rosu,Rosuvastatin,medicine_name,Cholesterol,low
+Ecosprin,Aspirin,brand_shorthand,Brand shorthand,medium
+ASA,Aspirin | Acetylsalicylic acid,medicine_name,Blood thinner/pain,low
+Clop,Clopidogrel,medicine_name,Blood thinner,low
+DAP,Aspirin + Clopidogrel,medicine_name,Sometimes used for dual antiplatelet,medium
+B12,Vitamin B12 | Methylcobalamin,medicine_name,Vitamin,low
+Mecobal,Methylcobalamin,medicine_name,Vitamin B12,low
+D3,Vitamin D3 | Cholecalciferol,medicine_name,Vitamin,low
+Ca,Calcium,medicine_name,Supplement,medium
+Fe,Iron,medicine_name,Supplement,medium
+FA,Folic acid,medicine_name,Supplement,medium
+Zinc,Zinc supplement,medicine_name,Usually written directly,low
+ORS,Oral Rehydration Salts,medicine_name,Dehydration,low
+NS,Normal saline,iv_fluid,IV fluid,medium
+DNS,Dextrose normal saline,iv_fluid,IV fluid,low
+RL,Ringer lactate,iv_fluid,IV fluid,medium
+Asthalin,Salbutamol,brand_shorthand,Brand shorthand,medium
+Salb,Salbutamol,medicine_name,Inhaler/bronchodilator,low
+Budecort,Budesonide,brand_shorthand,Brand shorthand,medium
+Bud,Budesonide,medicine_name,Inhaled steroid,medium
+Duolin,Levosalbutamol + Ipratropium,brand_shorthand,Nebulization brand,medium
+CPM,Chlorpheniramine maleate,medicine_name,Cold/allergy,low
+DXM,Dextromethorphan,medicine_name,Cough,low
+Ambro,Ambroxol,medicine_name,Cough/mucolytic,low
+Guaif,Guaifenesin,medicine_name,Cough,low
+NAC,N-acetylcysteine,medicine_name,Mucolytic,low
+Pred,Prednisolone,medicine_name,Steroid,medium
+Dexa,Dexamethasone,medicine_name,Steroid,low
+HC,Hydrocortisone,medicine_name,Steroid; can also mean hydrochloride,high
+Betnesol,Betamethasone,brand_shorthand,Brand shorthand,medium
+Alb,Albendazole,medicine_name,Deworming,medium
+Iver,Ivermectin,medicine_name,Antiparasitic,low
+Fluco,Fluconazole,medicine_name,Antifungal,low
+Clotri,Clotrimazole,medicine_name,Antifungal,low
+Keto,Ketoconazole,medicine_name,Antifungal; can be ambiguous,medium
+Mupiro,Mupirocin,medicine_name,Antibiotic ointment,low
+T-Bact,Mupirocin,brand_shorthand,Brand shorthand,medium
+Betadine,Povidone iodine,brand_shorthand,Antiseptic brand,medium
+CPM + PE,Chlorpheniramine + Phenylephrine,combination,Cold combo,medium
+PCM + CTZ,Paracetamol + Cetirizine,combination,Cold/fever combo,medium
+PCM + Phenyl,Paracetamol + Phenylephrine,combination,Cold combo,medium
