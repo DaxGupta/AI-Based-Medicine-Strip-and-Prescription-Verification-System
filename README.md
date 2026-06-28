@@ -4,7 +4,7 @@ An end-to-end computer vision and OCR pipeline deployed via Streamlit that extra
 This Streamlit app combines three parts of your project:
 
 1. **Medicine strip pipeline** from the Modular medicine-strip pipeline ZIP
-   - orientation correction (Trined model of orientation correction is downloaded from here: https://drive.google.com/file/d/1qQ2smULW888xdNbyJjW8H9susCC27hcZ/view?usp=sharing)
+   - orientation correction (Trained model of orientation correction download from here: https://drive.google.com/file/d/1qQ2smULW888xdNbyJjW8H9susCC27hcZ/view?usp=sharing)
    - preprocessing
    - OCR text extraction
 
